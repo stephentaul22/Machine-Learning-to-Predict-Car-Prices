@@ -6,10 +6,10 @@ Buying a new car can be tricky. Often times, we are unsure if the price that we 
 
 To help reduce the uncertainty of this decision, we can look toward data science. If we have a list of cars and their attributes, along with price, we can use that list to train a machine learning algorithm to predict the price of a car.
 
-Goal:
+## Goal:
 
 My goal in this project is to build a model that can predict the price of a car, given its list of attributes.
 
-Method:
+### Method:
 
 To achieve this goal, I will train a multivariate k-Nearest Neighbors model on a dataset of cars sourced from the Machine Learning Repository of the Center for Machine Learning and Intelligent Systems at the University of California-Irvine.
