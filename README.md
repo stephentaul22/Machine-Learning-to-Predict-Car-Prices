@@ -1,6 +1,6 @@
 # Predicting Car Prices
 
-[Full Project: Predicting Car Prices](https://nbviewer.jupyter.org/github/stephentaul22/Predicting-Car-Prices/blob/main/Predicting%20Car%20Prices.ipynb)
+[Full Project: Predicting Car Prices](https://nbviewer.jupyter.org/github/stephentaul22/Machine-Learning-to-Predict-Car-Prices/blob/main/Predicting%20Car%20Prices.ipynb)
 
 Buying a new car can be tricky. Often times, we are unsure if the price that we are paying for the car is reasonable. Add to this the sheer number of cars on the market, consisting of many different sizes and features, and it can be downright impossible to know if the price your dealer is offering is reasonable.
 
